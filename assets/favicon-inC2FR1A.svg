@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Latitude Iberia favicon</title>
+  <desc id="desc">Terracotta and teal cartographic mark on warm paper background.</desc>
+  <rect width="128" height="128" rx="28" fill="#F4F0E8"/>
+  <path d="M31 31h26" stroke="#151714" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="61" cy="31" r="6" fill="#176B68"/>
+  <path d="M38 52l15-10 24-2 22 8 13 0 9 8 2 15-5 18-9 6-2 12-12 4-12-3-18 8-12-4-7-8-10-4-3-7-7-6-4-16 5-14 10-9z" fill="#B54A2F" fill-opacity="0.18" stroke="#151714" stroke-width="3"/>
+  <path d="M42 57l-4 21 3 18 8 11 2 10 8 4 5-5-3-10 2-12 5-11 1-16-9-14-7 6-11-1z" fill="#176B68" fill-opacity="0.18" stroke="#151714" stroke-width="3"/>
+  <text x="29" y="107" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="0.28em" fill="#151714">LI</text>
+</svg>
