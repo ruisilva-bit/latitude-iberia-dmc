@@ -1,5 +1,6 @@
 node_modules/
 dist/
 qa-artifacts/
+.firecrawl/
 .playwright/
 .npm-cache/
